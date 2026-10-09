@@ -1,0 +1,7 @@
+~$*
+历史导出/
+*.inspect.ndjson
+*.tmp
+.DS_Store
+Thumbs.db
+work/
